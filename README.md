@@ -1,4 +1,4 @@
-# screen-saver-workaround
+# Simple oled screensaver
 Hello Oled owners!
 
 For the past few weeks of owning an OLED monitor, I've run into an issue with Windows screensaver or display-off after timeout functionality not kicking in despite everything being set as intended.
