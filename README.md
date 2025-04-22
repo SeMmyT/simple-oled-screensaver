@@ -24,3 +24,8 @@ Install Other Dependencies:
 pip install pygetwindow psutil pynput pystray pillow pywin32
 
 win+r shell:startup ; drop the script there.
+
+___
+Changelog 0.2
+Added gamepad support, a cleaner start of the screensaver, and additional players to the list.
+Please dm me on Reddit u/semmy_t if you'd like to get an .exe of this script.
