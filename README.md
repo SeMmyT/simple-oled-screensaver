@@ -21,7 +21,7 @@ Open Command Prompt and install pyinstaller by running: pip install pyinstaller
 
 Install Other Dependencies:
 
-pip install pygetwindow psutil pynput pystray pillow pywin32
+pip install pygetwindow psutil pynput pystray pillow pywin32 inputs
 
 win+r shell:startup ; drop the script there.
 
